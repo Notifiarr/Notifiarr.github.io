@@ -1,2 +1,1 @@
-# Notifiarr.gihub.io
-Web content for support.notifiarr.com
+# docs.notifiarr.com

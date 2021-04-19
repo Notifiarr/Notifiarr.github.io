@@ -1,2 +1,3 @@
-# Notifiarr.gihub.io
-Web content for support.notifiarr.com
+# Notifiarr.github.io
+
+Web content for docs.notifiarr.com

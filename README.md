@@ -1,3 +1,3 @@
-# Notifiarr.github.io
+# gh.notifiarr.com
 
-Web content for docs.notifiarr.com
+Web content for https://gh.notifiarr.com
